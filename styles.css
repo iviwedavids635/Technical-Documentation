@@ -1,0 +1,10 @@
+#navbar {
+    width: 45%;
+
+}
+
+@media (max-width:768px) {
+    body {
+        background-color: rgb(24, 26, 27);
+    }
+}
